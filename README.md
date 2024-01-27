@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Georges Nasrallah</h1>
 <h3 align="center">I'm passionate Data Scientist from Lebanon</h3>
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently working on **Deep learning Projects, and I am also learning Time-series Analysis**
 
 - 📫 How to reach me **georgesnasrallah17.7@gmail.com**
 
